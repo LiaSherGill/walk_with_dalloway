@@ -48,3 +48,14 @@ h5 {
   color: #B81C57;
   text-align: center;
 }
+
+/* STYLING FOR JAVASCRIPT SCROLL */
+#container DIV
+{
+    background-color: #e2eacc;
+}
+
+.hideme
+{
+    opacity:0;
+}
